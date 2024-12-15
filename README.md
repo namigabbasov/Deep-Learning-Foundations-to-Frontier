@@ -1,5 +1,6 @@
 # Deep Learning: Foundations to Frontier
 
+In this course, I focus an intuitive understanding of deep learning. It begins with the foundational principles of deep learning and progress to advanced topics such as transformers, generative models, and large language models (LLMs) within the deep learning framework. Additionally, the course covers essential mathematics and Python libraries necessary for deep learning.
 
 ---
 
